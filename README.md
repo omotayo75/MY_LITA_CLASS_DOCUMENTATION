@@ -40,5 +40,6 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualization
+[bar chart for age distribution.xlsx](https://github.com/user-attachments/files/17509666/bar.chart.for.age.distribution.xlsx)
 
 
