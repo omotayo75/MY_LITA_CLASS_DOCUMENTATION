@@ -39,3 +39,6 @@ SELECT * FRM TABLE 1
 WHERE CONDITION = TRUE
 ```
 
+### Data Visualization
+
+
