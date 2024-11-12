@@ -1,6 +1,6 @@
 # LITA_CLASS_DOCUMENTATION
 
-### Project Title; E Commerce Sales Analysis
+### Project Title; Sales Analysis and customer data Subscription Analysis 
 
 ### Project Overview 
 ---
