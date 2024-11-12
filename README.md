@@ -4,10 +4,11 @@
 
 ### Project Overview 
 ---
-this has to do with a brief description of what the project entails.
+This Data Analysis project is divided  into two segments first one aims at analyzing sales performance of a retail store by exploring the data sales, and to uncover the key insights of top selling products,regional performance and monthly sales trends
+Secondly is a data analysis on customer data for a subscription service, to identify segments and trends 
+### Data Sources 
+The  datas are originated from  Microsoft Excel
 
-### Data Sources
-This has to do with where the data is originated.
 ---
 ### Tools used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -15,6 +16,7 @@ This has to do with where the data is originated.
    2. for Analysis
    3. for visualization
 - SQL - Structured Query Language for Quring data
+- power BI for data reporting and visualization 
 - Github for portfolio building
 
 ---
