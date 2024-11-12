@@ -28,13 +28,20 @@ The  datas are originated from  Microsoft Excel
 ----
 
 ### Exploratory Data analysis
-EDa involved the exploring of the Data to answer some questions about the Data such as 
-- what is the overall sales trend
-- which product are top sellers
-- what are the products on peak sales?
+EDa involved the exploring of the Data to answer some questions about the Sales Datas and Customers Data such as:
+Performing an initial exploration of the sales data
+---Using pivot tables to summarize total sales by product region, and month.
+Use Excel formulas to calculate metrics such as average sales per product and 
+total revenue by region. 
+--- And on Customer Data subscription 
+Analyze customer data using pivot tables to find subscription patterns.
+o Calculating the average subscription duration and identify the most popular 
+subscription types.
+o And any other interesting reports.
 
 ### Data Analysis
-This is where we include some lines of code or queries or even some of the DAX expressions used during your analysis;
+This is where I include some lines of code o
+and queries or even some of the DAX expressions used during my analysis;
 
 ```SQL
 
@@ -43,6 +50,6 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualization
-[bar chart for age distribution.xlsx](https://github.com/user-attachments/files/17509666/bar.chart.for.age.distribution.xlsx)
+distribution.xlsx(https://github.com/user-attachments/files/17509666/bar.chart.for.age.distribution.xlsx)
 
 
